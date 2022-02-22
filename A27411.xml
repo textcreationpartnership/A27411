@@ -1,0 +1,488 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Basileus basileon, or, The regality of Jesus Christ, King of Zion opened, vindicated, advanced in a sermon preached at St. Maries, Oxon, Jun. 26, 1659.</title>
+            <author>Bentall, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27411</idno>
+            <idno type="STC">Wing B1907</idno>
+            <idno type="STC">ESTC R23683</idno>
+            <idno type="EEBO-CITATION">07870048</idno>
+            <idno type="OCLC">ocm 07870048</idno>
+            <idno type="VID">40230</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40230)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1195:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Basileus basileon, or, The regality of Jesus Christ, King of Zion opened, vindicated, advanced in a sermon preached at St. Maries, Oxon, Jun. 26, 1659.</title>
+                  <author>Bentall, Edward.</author>
+               </titleStmt>
+               <extent>[4], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Lichfield,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40230:1"/>
+            <pb facs="tcp:40230:1" rendition="simple:additions"/>
+            <p>ΒΑΣΙΛΕΥΣ ΒΑΣΙΛΕΟΝ, OR THE REGALITY OF JESUS CHRIST King of Zion, Opened, Vindicated, Advanced, in a <hi>Sermon</hi> Preached at St. <hi>Maries, Oxon:</hi> Jun. 26. 1659. By <hi>EDWARD BENTALL.</hi> M. A. of Q. C. C. <hi>Miniſter of the Goſpell at</hi> Baghurſt <hi>in</hi> Hant-ſhire.</p>
+            <q>Quae veritati operam dat oratio, incompoſita debet eſſe &amp; ſimplex. <bibl>
+                  <hi>Sen. Ep. 40.</hi>
+               </bibl>
+            </q>
+            <q>Non ſunt contemnenda quaſi parva ſine quibus magna conſtare non poſſunt. <bibl>
+                  <hi>Jerom:</hi> ad <hi>Laetam.</hi>
+               </bibl>
+            </q>
+            <q>Infinitè magis eadem audita quam lecta delectant <bibl>
+                  <hi>Quintil.</hi>
+               </bibl>
+            </q>
+            <q>Multo magis viva vox afficit, nam licet acriora ſint quae leges, al<g ref="char:EOLhyphen"/>tius tamen in animo ſedent quae pranuntiatio, vultus, habitus, ceſtus etiam dicentis adfigit. <bibl>
+                  <hi>Plin. lib. 2. Ep. 4.</hi>
+               </bibl>
+            </q>
+            <p>OXFORD, Printed by A. LICHFIELD, Printer to the Univerſity <hi>Anno Dom.</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:40230:2"/>
+            <pb facs="tcp:40230:2"/>
+            <p>VIRO ORNATISSIMO ET THEOLOGIAE PROFESSORI LITERATISSIMO, D. <hi>JOH. CONANT</hi> ACADEMIAE OXONIENSIS PRO-CANCELLARIO INSIGNISSIMO, HANC CONCIONEM IN TEMPLO Stae. <hi>MARIAE</hi> NUPER HABITAM.</p>
+            <closer>
+               <signed>D. D. D. Q. <hi>ED. BENTALL</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:40230:3"/>
+            <pb facs="tcp:40230:3"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing requeſted by the Author to Preface a few lines unto the enſu<g ref="char:EOLhyphen"/>ing Sermon, after a ſe<g ref="char:EOLhyphen"/>rious peruſall thereof, I conceive that it abundantly commends it ſelf, and needs no letters Teſtimoni<g ref="char:EOLhyphen"/>all. The Argument herein handled touching <hi>the Kingdome of Chriſt</hi> is of the greateſt weight and conſequence worthieſt of the beſt ſtudy, and ſtricteſt diſquiſition. Amongſt variety of opi<g ref="char:EOLhyphen"/>nions the learned Author diſcovers much modeſty and ingenuity, and doth not magiſterially determine from his own private apprehenſion, but brings all opinions to the Touchſtone of Scrip<g ref="char:EOLhyphen"/>ture, and examines all by that infalli<g ref="char:EOLhyphen"/>ble Rule. Vpon reading of the whole thou wilt find (Reader) a gracious, Savoury
+<pb facs="tcp:40230:4"/> frame of ſpirit in the Author, and pra<g ref="char:EOLhyphen"/>cticall truths, by him ſolidly handled, intermixt with good learning: And (through Gods bleſſing) if thou readest and joyneſt therewith prayer &amp; medi<g ref="char:EOLhyphen"/>tation, thou mayeſt reap abundance of benefit. The deſign of the Author (with whom I have had acquaintance at leaſt 17. years) I am perſwaded is to advance the Kingdome of Christ, to ſet the Crown on Chriſts Head, and to excite us all to make this ſubject our great ſtudy, and great inquiry. We muſt pray that <hi>Chriſts Kingdome may come,</hi> and that he may Rule, and Govern, and appear yet more glorious in his or<g ref="char:EOLhyphen"/>dinances. Though I underſtand not by what I have read, nor am ſatisfied in their judgment of late, who plead for a Perſonall reign, much leſſe ſee I any ground for the opinion of the Millena<g ref="char:EOLhyphen"/>ries of old: yet that there ſhal be a more glorious church, and that ordinances ſhall be more purely adminiſtred, and that greater light ſhall break forth, I beleive,
+<pb facs="tcp:40230:4"/> and in order thereunto wait for the accompliſhment of many promiſes and Propheſies, whereof in the enſue<g ref="char:EOLhyphen"/>ing Sermon there is a large Catalogue. Our duty is to pray that the <hi>Lord God omnipotent may reign, that the Kingdomes of the world, may be the Kingdomes of the Lord and of his Chriſt.</hi> I ſhall not detain thee from reading this excellent Sermon, but en<g ref="char:EOLhyphen"/>treat thee to help the Authour by thy prayers, and me alſo who hath prevail<g ref="char:EOLhyphen"/>ed with him to make this of Publick uſe. And ſo I wiſh that thy profitting may appear by what thou readeſt, there<g ref="char:EOLhyphen"/>by the worthy Authour may be encou<g ref="char:EOLhyphen"/>raged to make more of his choice la<g ref="char:EOLhyphen"/>bours publick for thy greater Benefit. I remaine.</p>
+            <closer>
+               <dateline>Magdalen-Hall, <hi>Oxon:</hi> 
+                  <date>
+                     <hi>March</hi> 13. 1659/60.</date>
+               </dateline>
+               <signed>Thy Servant for Chriſts ſake H. Wilkinſon.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:40230:5"/>
+            <pb n="1" facs="tcp:40230:5"/>
+            <head>CHRIST THE KING of KINGS.</head>
+            <epigraph>
+               <bibl>PSAL. 2. 6.</bibl>
+               <q>Yet have I ſet my King upon my holy Hill of Zion.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HAT <hi>David</hi> was the pen<g ref="char:EOLhyphen"/>man of this Pſalm, appeares by <hi>Act. 4. 25. who by the mouth of thy ſervant David haſt ſaid, why doe the Hea<g ref="char:EOLhyphen"/>then rage? &amp;c.</hi> But if you ſhall aske me as the <hi>Eunuch</hi> did <hi>Phillip,</hi> of another ſcripture <hi>Act. 8. 34. of whom ſpeakes the Prophet this? of himſelf or of ſome other?</hi> I muſt doe as <hi>Phillip</hi> did, and from this
+<pb n="2" facs="tcp:40230:6"/> Scripture preach unto you <hi>Jeſus.</hi> Indeed I find three different opinions of whom <hi>David</hi> here ſpeakes.</p>
+            <p n="1">1. The <hi>Jewes</hi> (thoſe profeſſed enemies<note place="margin">1 Theſ. 2 15. 16.</note> of Jeſus Chriſt) underſtand it of <hi>David,</hi> and his kingdom without any relation to Chriſt; But this is ſo clearly confuted out of the whole Pſalm, that (as <hi>Junius parell.</hi> 91. ob<g ref="char:EOLhyphen"/>ſerves) many of the Jewes themſelves <hi>non auſa ſunt pernegare:</hi> for many paſſages can<g ref="char:EOLhyphen"/>not without blaſphemy be litterally affirm<g ref="char:EOLhyphen"/>ed of any meer man: as where the Lord calls him <hi>his begotten Sonne,</hi> gives him as his King <hi>the whole world for his inheritance,</hi> commands all to yeeld him divine worſhip, and to put their truſt in him.</p>
+            <p n="2">2. Others (and thoſe ſome modern Di<g ref="char:EOLhyphen"/>vines of good note) underſtand it both of <hi>David</hi> and <hi>Chriſt, David</hi> and his kingdome, as a type; of Chriſt and his kingdome, as the Antitype. <hi>Ille typus, his typi veritas.</hi> Calvin.</p>
+            <p n="3">3. But almoſt all the Fathers (as <hi>Ames</hi> obſerves) and many modernes doe conceive that the whole pſalm is a prophetical nar<g ref="char:EOLhyphen"/>ration, of Chriſt and his Kingdome, and that <hi>David</hi> hath in it no reference to him<g ref="char:EOLhyphen"/>ſelfe; and to this I ſhould rather encline (yet leaving every one to his own judg<g ref="char:EOLhyphen"/>ment) becauſe though many things may
+<pb n="3" facs="tcp:40230:6"/> aptly enough be applyed to <hi>David</hi> as he was a type of Chriſt, yet ſome things can by no meanes agree to him. But we need not contend about this, ſeeing thoſe that are of the ſecond opinion acknowledge that it's meant cheifly and principally of Chriſt, ſo <hi>Calv. Haec omnia non allegoricè ſed verè Chriſto ſunt applicanda.</hi> This verſe which I have choſen for the ſubject of my preſent diſcourſe, ſtands in the Pſalm as the center in the circumference, al the other verſes are but as lines drawn to and through it: it is the very pith, heart, and marrow of the whole pſalm: In the handling whereof I ſhall doe as <hi>Boaz</hi> adviſed <hi>Ruth, chap. 2. 8. not goe to glean in anothers field,</hi> but make as good uſe as I can of the fruitfull Sheafes that lye ſcartered in the field of the pſalm, both by way of Explication, Confirmation, and Application of the main propoſition that I ſhall raiſe from the Text.</p>
+            <p>In the words we have theſe parts.<note place="margin">The Text Divided.</note>
+            </p>
+            <p n="1">1. The deſignment of Jeſus Chriſt to be King. where</p>
+            <p n="1">1. The deſigner, I: who is this I? <hi>Anſ.</hi> God the Father, the ſame that is here called <hi>Jehova</hi> and <hi>Adonai,</hi> the Lord, this one I, this<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> one God is here oppoſed againſt all the po<g ref="char:EOLhyphen"/>wer and pollicy of the whole world, ſo <hi>Pſal.</hi>
+               <pb n="4" facs="tcp:40230:7"/> 110. 1. <hi>The Lord ſaid unto my Lord.</hi>
+            </p>
+            <p n="2">2 The deſigned. <hi>Malchi,</hi> my King<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Cujus juſſu ho<g ref="char:EOLhyphen"/>mines naſcun<g ref="char:EOLhyphen"/>tur, bujus juſ<g ref="char:EOLhyphen"/>ſu &amp; reges con<g ref="char:EOLhyphen"/>ſtituuntur.</hi> Iren. l 5. c 24 <hi>Qui dat regnu<g ref="char:cmbAbbrStroke">̄</g> coel rum ſolis piis regnum terrenum &amp; piis &amp; impiis, ſicut ei placet, cui nihil inju<g ref="char:EOLhyphen"/>ſtè placet.</hi> Aug. <hi>de civ.</hi> l. 5. c. 21.</note> with an <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and Emphaſis. All Kings reign by Gods providence. (By me Kings reign) not all by his ſpecial allowance, ap<g ref="char:EOLhyphen"/>pointment, and approbation. <hi>Hoſ. 8. 4. They have ſet up Kings, but not by me, they have made Princes, and I knew it not. (i. e.)</hi> I did not approve of it; and even thoſe lawfull powers, that are ordained by God, are for the particular manner and kind of gover<g ref="char:EOLhyphen"/>ment, but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the creation, or ordinance of man, 1 <hi>Pet.</hi> 2. 13. but this King is immediately ſet up by God, autho<g ref="char:EOLhyphen"/>rized and approved by him, and of more dignity and abſolute power then all other<note n="*" place="margin"> He hath both <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Iſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 33. 22. our Judge, our Lawgiver, and our King. 1. Tim. 1. 17. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Jud. v. 25) c. 6. 15. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Jud. v.</hi> 4. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Kings, <hi>King of Kings, and Lord of Lords.</hi>
+            </p>
+            <p n="3">3. The manner of deſignment, <hi>naſacti, <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> I have annointed him,</hi> with mine own hand have I powred my holy Oyle up<g ref="char:EOLhyphen"/>on his head, this intimates God the fathers calling his Sonne Jeſus to, and fitting him with gifts ſuitable to his office, anointing him <hi>with the Oyle of gladneſs above his fel<g ref="char:EOLhyphen"/>lowes,
+<pb n="5" facs="tcp:40230:7"/> Joh.</hi> 6. 27. ſealing him with his Sig<g ref="char:EOLhyphen"/>net, and ſetting him on his Throne <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. The place or throne where he is de<g ref="char:EOLhyphen"/>ſigned<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> to ſit and reign, <hi>Zion, har Kodſhi,</hi> my holy hill of Zion; take it literally and it is that city of <hi>David,</hi> the Metropolis of the kingdome, the place of Gods Sanctuary and ſpeciall reſidence: <hi>Glorious things are ſpoken of thee, thou city of God. Pſal.</hi> 87. 3.</p>
+            <p>Some look here to the letter, and expect Chriſt to come perſonally, and reign in <hi>Zi<g ref="char:EOLhyphen"/>on</hi> as a Monarch, when the Jewes ſhall be called, <note n="*" place="margin">
+                  <hi>Rom.</hi> 11. 15. and <hi>v.</hi> 23. What ſhall receiving of them (<gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) be but life from the dead? <hi>v. Bright.</hi> on <hi>Dan.</hi> 12. 2. and on <hi>Rev. 19. 20, 21. Ezek.</hi> 34. 23, 24. I will ſave my flock, and, I will ſet up one Shepeard over them, and he ſhall feed them, even my ſervant David he ſhall feed them <hi>&amp;c.</hi> and I the Lord will be their God, and my ſervant David a Prince among them. <hi>v.</hi> 26. 28, 29, 30. and <hi>chap.</hi> 37. 20, 22, 24. I will make them one nation, and one King ſhall be King to them all, and David my ſervant ſhall be a King over them. <hi>Hoſ. 3. 5. Amos</hi> 9. 11. I will raiſe up the Tabernacle of David that is fall<g ref="char:EOLhyphen"/>en, and I will build it up as in the dayes of old. <hi>Zech.</hi> 14. 4. 5. 9. For the Lord ſhall be King over all the earth. <hi>&amp;c. chap. 2. v. 4.</hi>
+               </note> and that he ſhall indeed ſit upon <hi>the throne of his Father David,</hi> as <hi>Iſa. 9. 6, 7. upon the throne of David, and upon his king<g ref="char:EOLhyphen"/>dome:</hi> and <hi>chap. 60. tot.</hi> and <hi>Luke 1. 32, 33. The Lord God ſhall give unto him the</hi> 
+               <note n="*" place="margin">And Davids Throne is not the hearts of the Saints. <hi>Jer. 3. 16, 17, 18. Non enim domus Jacob ad Gentes, ſed Gentes ad domum Ja<g ref="char:EOLhyphen"/>cob accedere debent, ſi volunt ſub hoc rege eſſe,</hi> Chem. <hi>ad l c. Iſa. 44. Mic. 4. 2.</hi>
+               </note> 
+               <hi>throne of his father David, and he ſhall reign over the houſe of Jacob for ever, and of his king<g ref="char:EOLhyphen"/>dome
+<pb n="6" facs="tcp:40230:8"/> there ſhall be no end:</hi> And indeed ma<g ref="char:EOLhyphen"/>ny ſcriptures look with a fair aſpect this way, though ſome have corrupted them, with their falſe gloſſes, and humane <note n="*" place="margin">
+                  <hi>Jerom</hi> in <hi>Jer.</hi> 23. ſaith thus. <hi>Licet non ſequamur, tamen damna<g ref="char:EOLhyphen"/>re non poſſu<g ref="char:EOLhyphen"/>mus, quia mul<g ref="char:EOLhyphen"/>ti Eccleſiaſti<g ref="char:EOLhyphen"/>corum virorum &amp; Martyres iſta dixerunt. vid.</hi> Mr. Mede on the <hi>Revel. ex</hi> Juſt. <hi>Mart. Dial. cum</hi> Tryphone. Aug. <hi>de Civ.</hi> l. 20. c. 7. profeſſeth, that if it were held more ſpiritually &amp; not ſo carnal<g ref="char:EOLhyphen"/>ly, he ſaw it tollerable &amp; once held it. <hi>Gerhard loc. com. de conſum: ſeculi</hi> lib. 7. pag. 319 <hi>&amp;c. Negari nequit quoſdam ex antiquiſſimis eccleſiae doctoribus opinionem hanc eſse amplexos. &amp;c.</hi> and he names many.</note> addi<g ref="char:EOLhyphen"/>tions; but I have no mind now to meddle with controverſies, eſpecially of this nature; I ſhall therefore ſay no more of this and the Thouſand yeares, but what I have heard a Reverend Doctor, Dr. <hi>Sibbs,</hi> once ſaid to ſome Divines diſputing of this ſubject, when (he ſeeming to be in a ſlumber) they jogged him and asked his judgment about it: <hi>If</hi> (ſaid he) <hi>it be a dream, it is a ſweet dreame.</hi> But there will be no great queſtion if we take <hi>Zion</hi> myſtically for the Church, which is Gods holy Hill, an Hill for it's e<g ref="char:EOLhyphen"/>minency, and Holy, becauſe of his holy or<g ref="char:EOLhyphen"/>dinances, and people there. Vpon this hill is Chriſts Throne ſet, and herein eſpe<g ref="char:EOLhyphen"/>cially he exerciſeth his regall power, till all his enemies are made his footſtoole, and till all the <hi>Kingdomes of the world ſhall become the Kingdomes of the Lord, and of his Chriſt. Rev.</hi> 11. 15. and till that of <hi>Daniel</hi> ſhall be fullfilled, <hi>chap.</hi> 2. 34, 35. which he ſpeaks
+<pb n="7" facs="tcp:40230:8"/> 
+               <hi>of the ſtone cut out of the Mountain, without hands, which brake the great Image in peices (ſc.</hi> the four Monarchies) and the ſtone that ſmote the Image became a great Moun<g ref="char:EOLhyphen"/>taine, and filled the whole earth; and till God ſhall give him the Heathen for his In<g ref="char:EOLhyphen"/>heritance, and the uttermoſt parts of the earth for his poſſeſſion, according to his promiſe made to him, <hi>ver.</hi> 8. of this Pſalme.</p>
+            <p n="3">3. Here's the maintenance of Chriſt in his Throne (by the ſame Authority and Power that ſet him up) againſt all oppoſi<g ref="char:EOLhyphen"/>tion, intimated in this particle, <hi>Yet.</hi> The Lord is brought in ſpeaking abruptly, and pathetically, manifeſting his indignation and high diſpleaſure againſt the world of the wicked that are enemies to Chriſt his King, and his reſolution to ſtand by him; as if he ſhould ſay, Though the world rages, and would un-King, and de-Throne my King whom I have Annointed, and ſet upon his Throne, yet he ſhall Reign and Conquer in deſpite of them.</p>
+            <p>Having thus divided, and opened the termes of my Text, I ſhall pitch upon this one Propoſition.</p>
+            <pb n="8" facs="tcp:40230:9"/>
+            <q>
+               <note place="margin" type="runSum">Doctr.</note>That God the Father hath anointed, and ſet up his Sonne Jeſus Chriſt to be King; and his Kingdome ſhall be maintained, and en<g ref="char:EOLhyphen"/>larged till it come to its <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and perfecti<g ref="char:EOLhyphen"/>on, notwithſtanding all oppoſition.</q>
+            <p>In the handling this Propoſition I ſhall<note place="margin">Method pro<g ref="char:EOLhyphen"/>pounded</note> proceed in a plain Method.</p>
+            <p n="1">1. By Explication. 2. By Demonſtration. 3. By Application; and in all I will keep my ſelf within the bounds of the Pſalm.</p>
+            <p n="1">1. For Explication; and herein we muſt<note place="margin">1. Explicati<g ref="char:EOLhyphen"/>on.</note> conſider, what manner of King, God hath deſigned his Sonne to be, and what he hath appointed to be the limits of his King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The Kingdome of Chriſt is to be conſi<g ref="char:EOLhyphen"/>dered under a twofold notion.</p>
+            <p n="1">1. There's his <hi>Regnum naturale:</hi> this be<g ref="char:EOLhyphen"/>longs to Jeſus Chriſt as he is God, and thus he hath equal power and authority with the Father over all the world; and in this ſenſe wee muſt ſay to him, as <hi>David</hi> to God, 1 <hi>Chron. 29. 11, 12. Thine, O Lord, is the greatneſſe, and the power, and the glory; thine is the Kingdome, and thou art exalted as head above all.</hi>
+            </p>
+            <p n="2">2. There's his <hi>Regnum donativum</hi> (and
+<pb n="9" facs="tcp:40230:9"/> herein may Chriſt ſay, <hi>My Father is greater than I</hi>) his diſpenſatory, oeconomicall Kingdome, which is not by nature, but by donation and gift, as <hi>v.</hi> 8. as <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Mediator.</p>
+            <p>This diſtinction our Divines generally maintain againſt the Socinians, and others, who hold that Chriſt hath but one King<g ref="char:EOLhyphen"/>dome, which he exerciſeth as Mediator o<g ref="char:EOLhyphen"/>ver his Church, and in ſome reſpect over all things; but they will not yeeld that Chriſt as God ruleth over all, becauſe they deny Chriſts Divinity.</p>
+            <p>This Mediatory Kingdome of Chriſt is conſidered in a twofold ſtate.</p>
+            <p n="1">1. The firſt is Providentiall; Chriſt be<g ref="char:EOLhyphen"/>ing as Mediator delegated by his Father, as Viceroy, and chiefe Ruler over all perſons and things with relation to his Church (as <hi>Joſeph</hi> by <hi>Pharoah</hi> was ſet over all the Land of <hi>Egypt.</hi>) So <hi>Mat.</hi> 28. 18. ſaith Chriſt, <hi>All power is given to me in heaven and in earth.</hi> Joh. 17. 2. <hi>Thou hast given him power over all fleſh.</hi> and Epheſ. 1. 20. <hi>Hee raiſed him from the dead, and ſet him at his own right hand in heavenly places, far above all principalitie, and power, and might, and do<g ref="char:EOLhyphen"/>minion, and every name that is named, not on<g ref="char:EOLhyphen"/>ly in this world, but in that which is to come,
+<pb n="10" facs="tcp:40230:10"/> and hath put all things under his feet (quoad judiciariam potestatem,</hi> though non <hi>quoad exercitium poteſtatis</hi>) to which place is pa<g ref="char:EOLhyphen"/>rallel that in <hi>Phil. 2. 9, 10. Wherefore alſo God hath highly exalted him, and given him a name above every name, that at the name of Jeſus every knee ſhould bow, of things in hea<g ref="char:EOLhyphen"/>ven, in earth, and under the earth, and that every tongue ſhould confeſſe that Jeſus Chriſt is Lord,</hi> &amp;c. And therefore the Apoſtle ſtiles him the <hi>bleſſed and onely Potentate, King of Kings, and Lord of Lords,</hi> 1 Tim. 6. 15. And in this ſenſe the Apoſtle tels us, <hi>that he muſt reign till he hath put down all rule, all authority and power;</hi> according to that <hi>Dan.</hi> 2. 34, 35. and brought al in ſubjection to his Regall Scepter.</p>
+            <p n="2">2. The ſecond ſtate of the Kingdome of Chriſt as Mediatour, is ſpiritual; and this is that Soveraignty of Chriſt whereby as abſolute Head and Monarch, he rules and governes in his Churches over the hearts and conſciences of men. This the Apoſtle ſpeaks of, <hi>Epheſ. 1. 21. Hee gave him to be head over all things to his Church which is his body.</hi>
+            </p>
+            <p>The power of Chriſt as King in this ſpi<g ref="char:EOLhyphen"/>ritual ſenſe is exerciſed.</p>
+            <pb n="11" facs="tcp:40230:10"/>
+            <p>1. Upon particular perſons, by his Word and Spirit, effectually calling and convert<g ref="char:EOLhyphen"/>ing them to himſelf, <hi>Turning them from</hi>
+               <note place="margin">Acts 26. 18. Col. 1. 13. Luc 11. 22.</note> 
+               <hi>darkneſſe to light, and from the power of Satan to God, delivering them from the power of darkneſſe, and tranſlating them into his owne Kingdom.</hi> He is the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that caſts the ſtrong man out of his palace, and takes the Throne himſelf, makes them a people of <hi>wil<g ref="char:EOLhyphen"/>lingneſſe</hi> in the day of his power, willing to open to this <hi>King of glory,</hi> and ſtoope to his<note place="margin">Pſal. 110. 3.</note> golden Scepter, and to be regulated by his holy Laws, and then guides and leads them<note place="margin">Pſal. 73. 24.</note> by his counſell in the waies of holyneſſe till he brings them to glory.</p>
+            <p n="2">2. In his Churches rightly conſtituted and governed according to the rule of his word; here Chriſt is Lord and King, <hi>the chief Shepheard and Biſhop of ſouls,</hi> 1 Pet. 2. 25. and <hi>the great ſhepheard of the ſheep,</hi> Heb. 13. 20. He walks as chief <hi>in the midst of the ſeven Golden Candleſticks:</hi> And here wee may more truly ſay of him, than the Jews<note place="margin">Rev. 2. 1.</note> of <hi>Caeſar, We have no King but Chriſt:</hi> the Church is Chriſts family, governed by his own Laws; <hi>aliae ſunt Leges Caeſarum, aliae Chriſti</hi> (ſaith <hi>Hierome.</hi>) Chriſtian Go<g ref="char:EOLhyphen"/>vernours rule in the Church, not over it; or if in ſome ſenſe over the Church, yet not
+<pb n="12" facs="tcp:40230:11"/> 
+               <hi>quatenus</hi> a Church, but <hi>quatenus</hi> a Common<g ref="char:EOLhyphen"/>wealth (as learned <hi>Salmaſius</hi> diſtinguiſh<g ref="char:EOLhyphen"/>eth) <hi>vid. Gilleſp. Aar. rod. p.</hi> 210.</p>
+            <p>No power on earth may impoſe, or con<g ref="char:EOLhyphen"/>tinue any way of Worſhip upon the conſci<g ref="char:EOLhyphen"/>ences of Gods people, which Chriſt hath not preſcribed. <hi>Moſes,</hi> though the great<g ref="char:EOLhyphen"/>eſt Prophet, and wiſeſt Governour in <hi>Iſra<g ref="char:EOLhyphen"/>el,</hi> yet muſt keep himſelf cloſe to the pat<g ref="char:EOLhyphen"/>tern ſhewed him on the Mount, For the building and ordering the Tabernacle, and the religious Rites of it: and <hi>Solomon,</hi> though wiſer than all men, is not left to his<note place="margin">1 King. 4. 31.</note> own wiſdome in building the Temple, and regulating the Worſhip of God there, but he muſt have a pattern alſo, 1 <hi>Chron. 28. 11, 12, 13. David,</hi> the Man of God gave him a perfect pattern of all that he had by the Spirit. And ſo hath Chriſt given in his Go<g ref="char:EOLhyphen"/>ſpel to his Subſtitutes and under-Rulers (at leaſt in reſpect of Subſtantials and Eſ<g ref="char:EOLhyphen"/>ſentials of Worſhip and Government) a perfect pattern likewiſe, which they muſt hold faſt till he come, <hi>Rev.</hi> 2. 24, 25. Hee will lay upon his Church no other burthen than what they have already.</p>
+            <p>This Kingdome of Chriſt, as ſpirituall, is as yet ſhut up in a very narrow compaſſe: Oh what a little part of the world doth
+<pb n="13" facs="tcp:40230:11"/> Chriſt as a ſpirituall King reigne ovet, ac<g ref="char:EOLhyphen"/>cording to his own Laws and Preſcripti<g ref="char:EOLhyphen"/>ons!</p>
+            <p n="1">1. The Prince of the power of the air, that rules in the hearts of the children of diſobedience, he as God of the world, Lords and Kings it over Jews, Turks, and Heathens, they are his vaſſals.</p>
+            <p n="2">2. The man of ſinne hath exalted him<g ref="char:EOLhyphen"/>ſelfe, and he <hi>as God ſitteth in the Temple of God,</hi> and keeps Chriſt out of his regall Throne, and how many followers hath he?</p>
+            <p n="3">3. And in that little ſpot of the world, where this our King ſits on his Throne and rules, how few real Saints and ſubjects hath he? and of them how few that can agree in one way of ſerving him? But the time draws near, when the Angel that hath the Key of the bottomleſſe pit ſhall lay hold on the Dragon that old ſerpent, which is the devill and ſathan, and <hi>bind him up, that he ſhall deceive the nations no more,</hi> &amp;c. <hi>Rev.</hi> 20. 2. that the ten horns <hi>ſhall hate the whore, and burn her with fire,</hi> Rev. 16. 16. that the water of the great <hi>River Euphrates ſhall be dried up, that the way of the Kings of the Eaſt may be prepared,</hi> Rev. 16. 12. that the Mar<g ref="char:EOLhyphen"/>riage of the Lamb ſhall come, <hi>and his Wife
+<pb n="14" facs="tcp:40230:12"/> ſhall make her ſelf ready,</hi> Rev. 19. 7. that the Gentiles ſhall ſlow in abundantly to <hi>Zion,</hi> the city of the Lord, the holy one of <hi>Iſrael, and the nation and kingdome that will not ſerve her (and her king) ſhall periſh, yea thoſe nations ſhall be utterly waſted,</hi> Iſ. 60. 12, 14. That there ſhall bee a glorious re<g ref="char:EOLhyphen"/>ſurrection of Churches from their dead condition in Idolatry, Superſtition, and A<g ref="char:EOLhyphen"/>poſtacie, and put into a right and holy frame, when the temple of God ſhall be o<g ref="char:EOLhyphen"/>pened in heaven, and there ſhall be ſeen in his temple <hi>the Ark of his Teſtament,</hi> Rev. 11. 19. And the Lord ſhall ſhew his people the <hi>form of his houſe, and all the Laws and Ordinances thereof, and write it in their ſight, that they may keep the whole forme thereof, and all the Ordinances thereof, and doe them,</hi> Ezek. 43. 11. <hi>Then ſhall the Church enlarge the place of her tent, and stretch forth the Curtains of her habitations, lengthen her coards, ſtrengthen her ſtakes, and break forth on the right hand and on the left,</hi> Iſa. 54. 2, 3.<note place="margin">Ezek. 48. 35.</note> 
+               <hi>And then ſhall the Lord be King over all the earth. In that day there ſhall be one Lord, and his Name one,</hi> Zech. 14. 9. And the Name of his Metropolis ſhall be, <hi>Jehovah-Shammah, the Lord is there.</hi>
+            </p>
+            <p>Theſe things in reſpect of the ſubſtance
+<pb n="15" facs="tcp:40230:12"/> of them I beleeve and expect, if I fail in any particular circumſtance, I ſubmit to the cenſure of the Prophets. If any ask when ſhall theſe things be? I anſwer as Chriſt did his Diſciples in the like caſe, <hi>Mat. 24. 36. Of the day and hour knoweth no man:</hi>
+               <note place="margin">
+                  <hi>Brightman</hi> on <hi>Dan. &amp; Rev. Mede</hi> on <hi>Rev.</hi> Dr. <hi>Wilkinſon</hi> his Sermon <hi>coram Parl.</hi> on <hi>Zech. 1. 19, 20, 21. Mede.</hi> Apoſt<g ref="char:EOLhyphen"/>acy of the latter times. <hi>p. 69. 78. 80.</hi>
+               </note> Yet many learned Divines have given their ſeveral gueſſes, which I will not undertake to mention in ſuch an auditory, only give me leave to tell you what I have long ſince obſerved in <hi>Gerhards Epiſt. Dedicatory</hi> pre<g ref="char:EOLhyphen"/>fixed to the ſecond part of his <hi>Goſpel-Har<g ref="char:EOLhyphen"/>mony:</hi> where he makes a collation between Chriſt and his Church, and undertakes to demonſtrate theſe five ſuppoſitions.</p>
+            <p n="1">1, That there may, and will be made a compariſon between the years of Chriſts life and the Jubilees of the Church.</p>
+            <p n="2">2. That Chriſt lived on the earth 33 yeares and a half.</p>
+            <p n="3">3. That to every year of Chriſts life there is anſwerable a year of Jubile of the Church.</p>
+            <p n="4">4 That a Jubile containes 7 weeks of yeares. (<hi>i. e.</hi>) 49 yeares.</p>
+            <p n="5">5. That the Jubilees are to take their beginning from the preaching and Baptiſm of <hi>John;</hi> and ſo makes the Jubilees to end in the year 1670. <hi>in quem annum</hi> (ſaith he)
+<pb n="16" facs="tcp:40230:13"/> 
+               <hi>fines temporum in Scripturis revelatorum de<g ref="char:EOLhyphen"/>ſinunt.</hi> But I would not be wiſe above what is written, and I remember what our Savi<g ref="char:EOLhyphen"/>our ſaid to his Diſciples, when they pro<g ref="char:EOLhyphen"/>pounded that curious queſtion to him, <hi>Act. 1. 7. It is not for you to know the times and ſeaſons, which the Father hath put in his own power.</hi> I ſhall conclude this with what the Anglel ſaid to <hi>Daniel</hi> chap. 12. 12, 13. <hi>Bleſſed is he that waiteth, and commeth to the 1335 dayes. but goe thy way till the end, for thou ſhàlt reſt and ſtand in the lot at the end of the dayes.</hi> Thus much for the Explication. Now ſecondly, I am to demonſtrate.</p>
+            <p n="1">1. <hi>Why the Lord hath ſet up Chriſt to be King.</hi>
+               <note place="margin">2. Demon<g ref="char:EOLhyphen"/>ſtration.</note>
+            </p>
+            <p n="2">2. <hi>That Chriſt Jeſus this King, hath ma<g ref="char:EOLhyphen"/>ny and great Oppoſers, and why.</hi>
+            </p>
+            <p n="3">3. <hi>That he ſhall reign and prevaile a<g ref="char:EOLhyphen"/>gainſt all oppoſitions, till his Kingdome be perfected.</hi>
+            </p>
+            <p n="1">1. <hi>Why God the Father hath ſet up Jeſus Chriſt as Mediator to be King?</hi>
+               <note place="margin">1. Reaſon.</note>
+            </p>
+            <p n="1">1. God hath put this honour upon him as a reward of his obedience to his father, in taking upon him the great work of Re<g ref="char:EOLhyphen"/>demption, and abaſeing and humbling him<g ref="char:EOLhyphen"/>ſelfe ſo low. <hi>Phil. 2. 7, 8, 9, 10. He made himſelfe of no reputation, and took upon him
+<pb n="17" facs="tcp:40230:13"/> the form of a ſervant, and humbled himſelf to the death; wherefore God hath highly ex<g ref="char:EOLhyphen"/>alted him &amp;c.</hi>
+               <note place="margin" type="runSum">Reaſ. 2</note>
+            </p>
+            <p n="2">2. Indeed it is due to him by the rule of Equity: <hi>Judg.</hi> 8. 22. what the men of Iſrael ſaid to <hi>Gideon, Rule thou over us &amp;c. for thou haſt delivered us from the hand of Midian; And what Jepthah ſaid to the Elders of Gilead.</hi> Judg. 11. 9. <hi>If I fight for you againſt the chil<g ref="char:EOLhyphen"/>dren of Ammon, and the Lord deliver them</hi>
+               <note place="margin">Aug. in Pſal. 145. 3. <hi>Magnus, mag<g ref="char:EOLhyphen"/>nus, magnus nimis volebat dicere quantu<g ref="char:cmbAbbrStroke">̄</g> magnus, &amp; ſi tota die mag<g ref="char:EOLhyphen"/>nus, magnus diceret, tota die dicens magnus ſiniret aliquando, quia ſiniretur dies, magnitudo illi<g ref="char:EOLhyphen"/>us ante dies, ultra dies, ſine die &amp;c,</hi>
+               </note> 
+               <hi>into my hand, ſhall I be your head?</hi> Tis but reaſon that our Saviour ſhould be our King.</p>
+            <p n="3">3. Becauſe none ſo fit as he to have the government upon his ſhoulders; none but the <hi>Lyon of the tribe of Judah</hi> fit to be in<g ref="char:EOLhyphen"/>truſted with ſuch power and imployed in this office; none ſo well qualified as he <hi>Iſa.</hi> 6. 9. See four excellent qualifications, <hi>qua<g ref="char:EOLhyphen"/>tuor</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or combinations.</p>
+            <p n="1">1. He is the <hi>wounderful Counſellour;</hi> there's his eminent wiſdom. <hi>Solomon</hi> to qualifie him for his kingdom begs wiſdom of God, <hi>a wiſe and underſtanding heart, that he might govern his people:</hi> behold a greater then <hi>Solomon</hi> is here; all the treaſures of wiſdom and know<g ref="char:EOLhyphen"/>ledge<note place="margin">
+                  <hi>Admirabilis eſt in nativita<g ref="char:EOLhyphen"/>te, conſiliarius in praedicatione, Dens in operatione, fortis in Paſſione, pater futuri ſeculi in reſurrectione, princeps pacis in perfecta beatitu<g ref="char:EOLhyphen"/>dine.</hi> Bernard. <hi>ad</hi> Iſa. 9. 6. Rev. 4. 8.</note> are in him; he only can ſay, <hi>I am
+<pb n="18" facs="tcp:40230:14"/> underſtanding Prov.</hi> 8. 14. The deepeſt polititian in the world is but a fool to him.</p>
+            <p n="2">2. The <hi>Mighty God;</hi> there's unparal<g ref="char:EOLhyphen"/>leld power and ſtrength; he can ſay both I am Vnderſtanding, and I am Strength: He is both <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, where<g ref="char:EOLhyphen"/>as all the power of Men &amp; Angels is bound<g ref="char:EOLhyphen"/>ed to the Sea, <hi>Hitherto ſhalt thou goe, and no farther.</hi>
+            </p>
+            <p n="3">3. <hi>The everlaſting Father.</hi> When <hi>Jo<g ref="char:EOLhyphen"/>ſeph.</hi> was advanced by <hi>Pharoah</hi> he cauſed it to be cryed before him <hi>Ab-rech tender Fa<g ref="char:EOLhyphen"/>ther. Gen.</hi> 41. 43. This our King is our Fa<g ref="char:EOLhyphen"/>ther, full of moſt tender bowells, &amp; an eter<g ref="char:EOLhyphen"/>nal father that will never leave his people <hi>Orphans,</hi> I will not leave you <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>vid. Joh.</hi> 14. 18.</p>
+            <p n="4">4. <hi>The Prince of Peace,</hi> the true King of <hi>Salem</hi> indeed, he can create peace, and bring peace out of trouble, <hi>Peace I leave with you, my peace I give unto you. Joh.</hi> 14 27. and an other manner of peace then the world can give <hi>&amp;c.</hi> Lay all theſe together, and what can be wanting to make him a compleat King? Of whom it may be more. truely ſaid, then it was of <hi>Mordecai Eſth. 10. 3. He was ſeeking the wealth of his people, and ſpeaking peace to all his ſeed.</hi>
+            </p>
+            <pb n="19" facs="tcp:40230:14"/>
+            <p>2. <hi>That Chriſt as King hath many and great oppoſers, and why?</hi>
+            </p>
+            <p>This we have at hand in the three firſt verſes of this Pſalm fully ſet down. All ſorts of men by all kinds of wayes fighting againſt Chriſt and his Scepter. <hi>Totius mundi eſt conſpiratio.</hi>
+            </p>
+            <p n="1">1. The people rage, <hi>ragesſhu</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> thoſe that are without.</p>
+            <p n="2">2. The people imagine, <hi>jehgu,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> theſe within the pale, with continuall unwearied care they ſtudy to find out wayes to hinder the ſetting up Chriſts rule and government over them.</p>
+            <p n="3">3. Not only the rude multitude, but the Kings of the earth, and Princes, the great men and wiſe Polititians, the <hi>Ahi<g ref="char:EOLhyphen"/>tophels, ijthiatzbu, &amp; nosdu</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> They combine all their ſtrength, they beat their braines, and joyn their hearts, heads, and hands againſt the Lord, and againſt his anointed, and all this to ſtop the riſeing and ſpreading of Chriſts kingdome. The hiſtory of the Scriptures and of the Church in all ages doe bear wit<g ref="char:EOLhyphen"/>neſſe to this, <hi>nec mirum aut inſolitum eſt ſi tumultuetur mundus ſimulac erigitur Chri<g ref="char:EOLhyphen"/>ſto ſolium.</hi> Calv. And whats the reaſon of all this, hot oppoſition? <hi>v. 3. Let's break
+<pb n="20" facs="tcp:40230:15"/> their bonds, and caſt away their cords.</hi> They look upon Chriſts eaſie yoke and ſight bur<g ref="char:EOLhyphen"/>den, as bonds and cords, they will not be ſo tyed up and ſhackled; men had rather undergoe any burthen, then have Chriſt rule over their ſoules. Chriſts lawes are ſpirituall and oppoſe their ſinfull luſts and appetites, and they cannot endure them. <hi>If any man will be my diſciple</hi> (ſaith Chriſt) <hi>let</hi>
+               <note place="margin">Mat. 16. 24. Mat. 5. 30.</note> 
+               <hi>him deny himſelf, and take up his croſſe and follow me, Mat. 16. 24. Mat.</hi> 5. 30. cut off his right hand, pluck out his right eye, yee are not your own. <hi>&amp;c. Oh! durus hic Sermo,</hi> this croſſeth the haire and will not be ſwal<g ref="char:EOLhyphen"/>lowed; and therefore they cry out, as <hi>Luk.</hi>
+               <note place="margin">
+                  <hi>Malunt ſervi<g ref="char:EOLhyphen"/>re Diabole quam regnare cum Chriſto. cui ſervire regnare eſt.</hi> Bernard. <hi>de temp.</hi>
+               </note> 9. 14. <hi>We will not have this man to rule over us. Not this man but Barabbas;</hi> they will rather chuſe to be ſlaves, and drudges to the Devill and luſts, to Tyrants, to any Lord rather then to the beſt Lord: ſo mi<g ref="char:EOLhyphen"/>ſerably is the blind world deluded.</p>
+            <p n="3">3. The Third thing to be demonſtrated is, that Jeſus Chriſt ſhall rule and reign, and his kingdome ſhall prevaile, till it comes to it's utmoſt extent and latitude in deſpight of all oppoſition. And this we have abundantly made good in this Pſalm alſo.</p>
+            <p n="1">1. More generally, all the imaginati<g ref="char:EOLhyphen"/>ons, plottings, contrivements, enterprizes
+<pb n="21" facs="tcp:40230:15"/> of all theſe Oppoſers are but <hi>rick, a vaine</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>thing, v.</hi> 1. they had better ſit ſtill and doe nothing; they ſhall never bring about what they aime at, they doe but ſwim againſt the ſtream, kick againſt the pricks, and daſh themſelves againſt the rock that will break them in peices, ſhoot up arrowes a<g ref="char:EOLhyphen"/>gainſt heaven, that will fall upon their own heads. <hi>Iſa. 8. 9, 10. Aſſociate your ſelves all ye people, and ye ſhall be broken in peices, gird your ſelves and ye ſhall be broken in peices, take counſel together, and it ſhall come to nought, ſpeak the word, and it ſhall not ſtand, for God is with us.</hi> This is Gods word againſt their word.</p>
+            <p n="2">2. More particularly, look into the Pſalm, and you ſhall ſee variety of Argu<g ref="char:EOLhyphen"/>ments to confirm it.</p>
+            <p n="1">1. Taken from God that hath ſet up<note place="margin" type="runSum">Arg. 1.</note> this King, this oppoſition is againſt the Lord and his anointed, they that reſiſt Chriſts government are <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, fighters againſt God. 1. <hi>Cor. 10. 22. Doe we pro<g ref="char:EOLhyphen"/>voke the Lord to jealouſy, are we ſtronger then he?</hi> Job. 9. 4. <hi>He is wiſe in heart and mighty in ſtrength, who hath hardned himſelfe againſt him and proſpered?</hi> It was good advice that <hi>Gamaliel</hi> gave the Councill, <hi>Act. 5. 28, 39. Refrain from theſe men</hi> (faith he) <hi>and let
+<pb n="22" facs="tcp:40230:16"/> them alone, for if this counſell or this work be of men it will come to nought, but if it be of God ye cannot overthrow it &amp;c.</hi> It will be worth the while a little to conſider what's added <hi>verſes</hi> 4. 5.</p>
+            <p n="1">1. He againſt whom the world fights ſits in heaven, not that he is circumſcribed there, for he <hi>fills</hi> heaven and earth. but<note place="margin">Jer. 23. 24.</note>
+            </p>
+            <p n="1">1. To ſhew the <hi>unparalled inequality</hi> between the Oppoſers, and the Oppoſed; the one is an heavenly God, the other poor earth-wormes: if wormes did fight againſt wormes, the ſtronger worme might over<g ref="char:EOLhyphen"/>top the weaker, but alas, what can a few poor clods of earth doe againſt the Heaven<g ref="char:EOLhyphen"/>ly all-powerfull God, in compariſon of whom the whole world is but as the drop<note place="margin">Jſa. 40. 25.</note> of a bucket, and as a ſmall duſt of a ballance? <hi>Iſa. 45. 9. Woe to him that ſtriveth with his maker, let the potſheard ſtrive with the pot<g ref="char:EOLhyphen"/>ſheards of the earth; but ſhall the pot fly in the face of the Potter?</hi> but no compariſon can reach this inſolency.</p>
+            <p n="2">2. God ſits in heaven as the Pilot at the helm, and as the King in his throne; he can turn about the great ſhip of the world at his pleaſure, and he can command all hearts, heads, Angells, Men, Divells, yea all creatures are at his diſpoſure.</p>
+            <pb n="23" facs="tcp:40230:16"/>
+            <p>3. In Heaven, where he can be infinite<g ref="char:EOLhyphen"/>ly glorious and happy, though he ſhould hurl all the earth and the inhabitants there<g ref="char:EOLhyphen"/>of into their firſt nothing.</p>
+            <p n="4">4. In Heaven, and therefore he is above them all and hath advantage enough againſt<note place="margin">
+                  <hi>Non magnus eſt Pumilio li<g ref="char:EOLhyphen"/>cet in monte conſtiterit; Co<g ref="char:EOLhyphen"/>loſſus magni<g ref="char:EOLhyphen"/>tudinem ſuam ſervabit, etiam. ſi ſteterit in puteo.</hi> Sen. Ep. 76.</note> them, they cannot reach him though they could heap Mountaine upon mountaine to clime up to him, but he can eaſily reach them; a weak woman once brake the skull of a King and valiant ſouldier with a peice of a Milſtone caſt down upon him from an high towre, and ſo can God cruſh his proud<g ref="char:EOLhyphen"/>eſt enemies with the leaſt inſtrument of his wrath.</p>
+            <p n="2">2. He laughes.</p>
+            <p n="1">1. To ſhew the ridiculous folly of the wicked world that they ſhould be ſo mi<g ref="char:EOLhyphen"/>ſerably fooliſh and mad as to think they ſhould be able to prevaile againſt him or to hinder his determinations and purpo<g ref="char:EOLhyphen"/>ſes, we ſee with what indignation great <hi>Goliah</hi> doth ſcoffe at little <hi>David</hi> when he dared to encounter with ſuch a Giant, and a man of Warre; how much more ridicu<g ref="char:EOLhyphen"/>lous were it for a company of ſilly Piſmires to arme themſelves and goe out againſt a great army of Souldiers or ſhould undertake to ſtorm ſome ſtrong caſtle, or well fortified garriſon;
+<pb n="24" facs="tcp:40230:17"/> would not the Commanders ſit ſtill and laugh at this ſimple attempt and not be troubled? <hi>q. m. &amp;c. Deus quietus è ſublimi ſpectat veſanos hominum motus.</hi> Calv.</p>
+            <p n="2">2. God laughes, to quiet the ſpirits and chear the hearts of his people; when<note place="margin">Pſal. 118. 12.</note> the enemies compaſſe them about like Bees and threaten their ruin; what comfort is this to think that even then God ſits and laughes at them when he ſuffers us to weep by them, yea when they laugh among themſelves and ſay, <hi>aha! ſo would we have it.</hi>
+            </p>
+            <p n="3">3. <hi>Verſ.</hi> 5. God doth not only laugh and deride them, but in due time he will ſpeak unto them in his wrath, and vex them in his ſore diſpleaſure.</p>
+            <p n="2">2. The Second Argument is taken from<note place="margin" type="runSum">Arg. 2.</note> Chriſt himſelf, he comes in and declares; <hi>verſ.</hi> 7, 8, 9.</p>
+            <p n="1">1. The Fathers decree concerning him, that when he had fully perfected the work of Redemption, and had mani<g ref="char:EOLhyphen"/>feſted his victory over the enemies of our Salvation, by his Reſurrection he ſhould actually reign as King; for of that day and of that begetting doth he here ſpeak, <hi>ſc.</hi> the day of his Reſurrection, and the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as the Apoſtle expounds it <hi>Act.</hi> 13.
+<pb n="25" facs="tcp:40230:17"/> 33. In that he raiſed up Jeſus again, as it is alſo written in the 2d. Pſalm, <hi>Thou art my ſonne &amp;c.</hi> and <hi>Rom. 1. 4. Declared to be the ſonne of God with power, by the Re<g ref="char:EOLhyphen"/>ſurrection from the dead.</hi>
+            </p>
+            <p n="2">2. His promiſe to him.<note place="margin">
+                  <hi>Orat Chriſtia<g ref="char:EOLhyphen"/>nus &amp; exandi<g ref="char:EOLhyphen"/>tur, orat Chri<g ref="char:EOLhyphen"/>ſtus &amp; non ex<g ref="char:EOLhyphen"/>auditur.</hi> Aug. <hi>in</hi> Pſal.</note>
+            </p>
+            <p n="1">1. That upon his asking he would give him the Heathen for his inheritance, and the uttermoſt parts of the earth, for his po<g ref="char:EOLhyphen"/>ſſeſſion, the ſpreading and enlargment of his kingdome over the world; and as God is immutable in his decree, ſo he is faithfull in all his promiſes. Therefore ſeeing Chriſt hath been asking the fullfilling of this pro<g ref="char:EOLhyphen"/>miſe for above 1600 yeares, certainly it will not be long ere it be accompliſh<g ref="char:EOLhyphen"/>ed.</p>
+            <p n="2">2. His Promiſe to Chriſt was that he ſhould have power in his hand, utterly to cruſh and ſpoile all thoſe that ſhall refuſe to ſtoope to his Scepter.</p>
+            <p n="1">1. That he ſhould doe it, as eaſily as a man can break a Potters veſſell with aniron rod.</p>
+            <p n="2">2. Irrecoverably: a veſſell of Gold and Silver if brooken in peices may be repair<g ref="char:EOLhyphen"/>ed; but a Potters veſſel if broken cannot be made up again. <hi>Iſa.</hi> 30. 14. He ſhall break it as the breaking of a Potters veſſel, that's broken in peeces, and <hi>Jer.. 19. 11. I will
+<pb n="26" facs="tcp:40230:18"/> this people and this city as one breaketh a Pot<g ref="char:EOLhyphen"/>ters veſſell that cannot be made whole again.</hi>
+            </p>
+            <p>Thus much for <hi>Demonſtration.</hi> Now.</p>
+            <p n="3">3. For <hi>Application,</hi> and in this I ſhall keep within the ſame field of the Pſalm alſo, ſo farre as I may.</p>
+            <p n="1">1. For <hi>Information.</hi>
+               <note place="margin">Applicat. Uſe 1. For Infor<g ref="char:EOLhyphen"/>mation.</note>
+            </p>
+            <p n="1">1. Wonder not to ſee ſuch hurlibur<g ref="char:EOLhyphen"/>lies, and ſtirres, ſuch ſhakings and earth<g ref="char:EOLhyphen"/>quakes, ſuch combuſtions and tumults every where in theſe our dayes; we muſt expect farre more and greater before our <hi>King Jeſus</hi> ſhall perfect his king<g ref="char:EOLhyphen"/>dom and make his enemies his foot-ſtoole. The Divell and his inſtruments have in all times raged, and with utmoſt ſtrength oppoſed, when Jeſus Chriſt comes to diſpoſſeſſe Satan, and ſet up his own throne, <hi>q. m.</hi> ſhall all nations be ſhaken, <hi>When the deſire of all nations ſhall come. Hag.</hi> 2. 7. and he that ſits upon the white horſe<note place="margin">Rev. 6.</note> ſhall goe forth conquering and to conquer, both the Jewes and the Gentiles as at once; If that in the 12 of <hi>Daniel verſ.</hi> 1. be meant of this time, when Chriſt ſhall take to him his great power and reign, as <hi>Rev.</hi> 11. 17. ſee what the Angel tells him, it ſhall be a time of trouble, ſuch as never was ſince there was a nation, even to that ſame time
+<pb n="27" facs="tcp:40230:18"/> and no marvell for the Divill ſhall now be<g ref="char:EOLhyphen"/>ſtirre himſelf, <hi>having great wrath, becauſe he knowes he hath but a ſhort time.</hi> There<g ref="char:EOLhyphen"/>fore<note place="margin">Rev. 12 12.</note> prepare for trouble.</p>
+            <p n="2">2. But let me not leave you comfort<g ref="char:EOLhyphen"/>leſs, for Chriſt is ſuch a King which will never want Subjects, neither ſhall they want a King, that will take care of them; <hi>Durante Sole ſoboleſcit nomen ejus. Pſal.</hi> 72. 17. (as you hove lately heard learnedly o<g ref="char:EOLhyphen"/>pened and applyed in this place in another<note place="margin">By Dr. <hi>Burt</hi> Warden of <hi>Wincheſter.</hi>
+               </note> tongue) let the world rage, let the Divell roar; this King whom God hath ſet up up<g ref="char:EOLhyphen"/>on his holy hill of Zion, ſhall reign and pro<g ref="char:EOLhyphen"/>ſper, and prevaile, till his kingdome at<g ref="char:EOLhyphen"/>taine its <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>). As for perſons and places indeed we cannot determine, when and where he will make his removes, and what cauſe we have to fear his withdrawing from us, and the removing of his Candleſtick, I need not ſay to you, (I hope you are very ſenſible of it, and will be carefull to prevent it) yet let the hearts of all faithfull ſubjects of this King be ſupported with this, he will have a care of them at all times, and in all places, but of this more by and by. Let not your hearts be troubled.</p>
+            <p>But the great Uſe I ſhall a little more inſiſt upon is that I find in the Pſalm, <hi>verſ.</hi> 10, 11, 12.</p>
+            <pb n="28" facs="tcp:40230:19"/>
+            <p>An Exhortation to all to come in; and ſtoop to this King whom God hath ſet up in Zion, to kiſs the Sonne, and not to ſtand out in oppoſition to him any longer.</p>
+            <p>
+               <hi>Queſt.</hi> But why is this advice given on<g ref="char:EOLhyphen"/>ly to great ones of the world; hath this King none others to be his enemies, but Kings and great ones.</p>
+            <p>
+               <hi>Anſ.</hi> Yes multitudes, but theſe are e<g ref="char:EOLhyphen"/>ſpecially called upon to be wiſe &amp; inſtruct<g ref="char:EOLhyphen"/>ed.</p>
+            <p n="1">1. Becauſe the great, wiſe, and learn<g ref="char:EOLhyphen"/>ed ones of the world, are (if graceleſs and unſanctified) as the grand enemies of Chriſt<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Melior est e<g ref="char:EOLhyphen"/>jus status qui famula<g ref="char:EOLhyphen"/>tur homini, quam qui ſua ſervit cupiditati.</hi> Auguſt.</note> Jeſus, ſo, hardlieſt perſwaded and drawn in to put their necks into Chriſts yoke, and to ſubmit to his ſpirituall government. <hi>Neh. 3. 5. The Nobles put not their necks to the work of their Lord, Jer.</hi> 5. 5. I will get me to the great men, and will ſpeak unto them, for they have known the way of the Lord <hi>&amp;c.</hi> but theſe have altogether broken the yoke and burſt the bonds. <hi>Joh. 7. 48, 49. Have any of the Rulers</hi> (ſay they) <hi>and of the Phariſees beleived in him?</hi> take one place more 1 <hi>Cor. 1. 26. 27. Not many wiſe men after the fleſh, not many mighty, not many no<g ref="char:EOLhyphen"/>ble are called &amp;c.</hi> And if we conſult with experience, it will alſo bear witneſs to
+<pb n="29" facs="tcp:40230:19"/> this, who are (for the moſt part) more de<g ref="char:EOLhyphen"/>ſperate enemies to Jeſus Chriſt, to Religi<g ref="char:EOLhyphen"/>on in its power, to the holy wayes, truths, and ſtrict diſcipline of Jeſus Chriſt, then ſuch men of great wit, learning, parts, and power? what <hi>dephs</hi> and ſtratagems, and methods of oppoſition have they; which o<g ref="char:EOLhyphen"/>thers<note place="margin">* <hi>Ideo de<g ref="char:EOLhyphen"/>teriores ſu<g ref="char:EOLhyphen"/>mus quia me<g ref="char:EOLhyphen"/>liores eſſe debemus.</hi> Salv. de Prov. l. 4. <hi>Monſtroſa res eſt, gradus ſummus &amp; animus infimus, ſedes prima &amp; vita ima,</hi> Bernard de Conſid. lib. 2. <hi>Vt divitijs ſic vitijs primi.</hi> Salv. <hi>de</hi> Prov. lib. 7. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Rev. 2. 24</hi>
+               </note> of a lower form are not capable of?</p>
+            <p n="1">1. The Devill is moſt induſtrious to get ſuch on his ſide, theſe are the Male of the flock, that will eaſily draw others af<g ref="char:EOLhyphen"/>ter them, <hi>thou art worth ten thouſand of us</hi>
+               <note place="margin">2 Sam. 18. 3.</note> ſay they to <hi>David.</hi>
+            </p>
+            <p n="2">2. The abundance of outward proſpe<g ref="char:EOLhyphen"/>rity,<note place="margin">
+                  <hi>Ipſis beſtijs beſtialior est homo ratione vigens &amp; ra<g ref="char:EOLhyphen"/>tione non vi<g ref="char:EOLhyphen"/>vens.</hi> Auguſt. <hi>Mallet vitam ſibi quam vinum eripi.</hi> as Judg. 9. 19. <hi>Eſſe malum inter bonos culmen eſt pravitatis, eſſe bonum inter malos culmen pietatis.</hi>
+               </note> makes them often licentious, whore<g ref="char:EOLhyphen"/>dome, <hi>Wine and new wine take away the heart. Hoſ.</hi> 4. 11.</p>
+            <p n="3">3. Flatterers attend them, that will ſooth them up in their vices.</p>
+            <pb n="30" facs="tcp:40230:20"/>
+            <p>4. Theſe great places and parts, ſwell<note place="margin">
+                  <hi>Non eſt carbo ita ignitus quin aqua ad<g ref="char:EOLhyphen"/>fuſa extin<g ref="char:EOLhyphen"/>guatur: ſicut contra non eſt carbo ita ma<g ref="char:EOLhyphen"/>didus quin prunarum acervo accendatur. Peccandi libidine potentiae ſuae magnitudinem metiuntur. Impune quidlibet facere id eſſe regem putant.</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Vermis divitiarum ſuperbia est.</hi> Auguſt. de Temp.</note> them with pride, and when <hi>Jeſurum Deut.</hi> 32. 15. is waxen fat he kicketh, and ſaies as <hi>Pharoah,</hi> Pſalm. 49. 20. <hi>who is the Lord?</hi>
+            </p>
+            <p n="2">2. Becauſe if great ones are not ex<g ref="char:EOLhyphen"/>empted,<note place="margin" type="runSum">Reaſ. 2.</note> how much leſſe thoſe of a lower ranck.</p>
+            <p n="3">3. Becauſe if ſuch as theſe come in and ſubmit to Chriſt, they may eaſily prevaile<note place="margin" type="runSum">Reaſ. 3.</note> with others. The greateſt difficultie is in Printing the firſt ſheets of bookes.</p>
+            <p>Well then having thus made way for it, now ſuffer the word of Exhortation, which is not mine but the Lords, <hi>Kiſſe the Sonne?</hi> The Sonne, who is that? Jeſus Chriſt, the Sonne of God, the Saviour of the world, the King of Zion. And what is it to Kiſs him?</p>
+            <p>
+               <hi>Anſ:</hi> 1. Kiſſing is an expreſſion of ho<g ref="char:EOLhyphen"/>mage and ſubjection, So <hi>Gen.</hi> 41. 40. Saith Pharoah to Joſeph, <hi>All my people ſhall Kiſſe thee, (i. e.)</hi> ſhall be ruled by the, and when <hi>Samuel</hi> had anointed <hi>Saul he Kiſſed him, 1 Sam.</hi> 10. 1.</p>
+            <p n="2">2. 'Tis an expreſſion of Affection and
+<pb n="31" facs="tcp:40230:20"/> Love, <hi>
+                  <g ref="char:V">Ʋ</g>nionem quandam ſpirituum &amp; ani<g ref="char:EOLhyphen"/>marum</hi>
+               <note place="margin">Ames.</note> 
+               <hi>prae ſe fert.</hi> It was a cuſtome among Chriſtians in the primitive times, to kiſſe one another at their Church meetings, it was <hi>Symbolum pacis &amp; amoris.</hi> In a word<note place="margin">
+                  <hi>Juſt. Mart.</hi> Joh. 1. 21. Heb. 5. 9. Pſal. 24 7, 8, 9 1 Cor. 16. 22.</note> this, to Kiſſe the Sonne, is to receive, em<g ref="char:EOLhyphen"/>brace and ſubmit to the Lord Jeſus Chriſt, to take him as our only Saviour, and ſover<g ref="char:EOLhyphen"/>aigne Lord; to love him and ſet him up in our hearts above all luſts and creatures, and to be ſubject in all things to his holy lawes and ſpirituall government, This is the great duty God requires of us all; and there be two ſtrong arguments to inforce it,</p>
+            <p n="1">1 The miſery of all Rebells that being invited, and commanded, to partake of Chriſts benefits, and to ſtoop to his Scepter, perſiſt in an obſtinate refuſall, and ſtiffe oppoſition againſt him and his government. Leaſt be be angry, and ye periſh in the way of Oppoſition. If his wrath be kindled but a little, what then? Oh, that! that! no tongue can ſpeak, no pen can write, no heart can conceive fully, and to the life, tis vailed becauſe it cannot be expreſt: how much more, if his wrath be broken forth into a flame? Give me leave to ſet before you a few Scriptures, which being well weigh<g ref="char:EOLhyphen"/>ed may ſhake the hearts of Rebells, and
+<pb n="32" facs="tcp:40230:21"/> cauſe them to caſt down their weapons, and to kiſſe the Sonne: <hi>Heb. 2. 1, 2. How ſhall we eſcape if we neglect ſo great ſalvation? 1 Pet. 4. 17. What will the end be of them that obey not the goſpel of God?</hi> two Queſtions, not Anſweres; But poſitively ſet down. 2 <hi>Theſ.</hi> 1. 7, 8. Oh! read and tremble, ſo <hi>Luk. 19. 27. Bring thoſe mine enemies that would not have me to rule over them, and ſlay them before my face.</hi> Its farre more tollerable for Sodom <hi>&amp;c.</hi> The furnace ſhall be heat ſeven times hotter <hi>&amp;c.</hi> Therefore if any of us hitherto have carried it to Chriſt Gods anointed as thoſe men of <hi>Belial, how ſhall this man ſave us?</hi> 1 Sam. 10. 27. <hi>and they deſpiſed him, and brought him no preſents and he hath yet held his peace.</hi> Oh! let us bethink our ſelves in time, and goe forth to meet him as <hi>Shimei</hi> did <hi>David,</hi> 2. Sam. 19. 18, 19. and <note n="*" place="margin">
+                  <hi>Videte mag<g ref="char:EOLhyphen"/>num miracu<g ref="char:EOLhyphen"/>lum altus eſt Deus erigis te &amp; fugit a te, inclinas te, &amp; deſcendit ad te; humilia de proximo re<g ref="char:EOLhyphen"/>ſpicit, ut at<g ref="char:EOLhyphen"/>tollat, ſuperba de longe cog<g ref="char:EOLhyphen"/>noſcit ut de<g ref="char:EOLhyphen"/>primat.</hi> Aug. in Pſalm. 138. 6.</note> fall down before him, and ſay as he. <hi>Oh! let not my Lord the King impute iniquity unto me, neither doe thou re<g ref="char:EOLhyphen"/>member that which thy ſervant hath done per<g ref="char:EOLhyphen"/>verſly againſt thee; for thy ſervant doth know that I have ſinned:</hi> and as <hi>Benhadads</hi> ſervants to <hi>Ahab 2 King 20. 23. with ropes about our heads, for the King of Zion</hi> is a mercy<g ref="char:EOLhyphen"/>full King to thoſe that will not too much too long abuſe his mercy, and love. If now
+<pb n="33" facs="tcp:40230:21"/> at laſt you will open your everlaſting gates,<note place="margin">Mirum eſt quod homines in ferni Sup<g ref="char:EOLhyphen"/>plicia non con<g ref="char:EOLhyphen"/>ſiderant, aut ſi conſiderent non formidant, cum tamen damones cre<g ref="char:EOLhyphen"/>dant &amp; con<g ref="char:EOLhyphen"/>tremiſcant.</note> the King of glory will come in, and pardon and love you, and take you into his family <hi>&amp;c.</hi> But tremble to think what will be the iſſue if ye ſtill will be reſiſting God: Oh! let the ſinners of Zion be afraid, and let fearful<g ref="char:EOLhyphen"/>neſſe ſurprize the hypocrites that comple<g ref="char:EOLhyphen"/>ment with Chriſt and give him fair words, but their hearts are not with him, but a<g ref="char:EOLhyphen"/>gainſt him: however ſuch may brave it out for a while, yet the time will ſhortly come when the proudeſt oppoſers ſhall hide themſelves in the dens and in the rocks of of the mountaines, and ſhall ſay to the rocks and mountaines, <hi>fall on us, and hide</hi>
+               <note place="margin">
+                  <hi>Non ille omiſit providentia<g ref="char:cmbAbbrStroke">̄</g> aut amiſit potentia<g ref="char:cmbAbbrStroke">̄</g>, ſed patientiam exercet ſuam dum poeniten<g ref="char:EOLhyphen"/>tiam expectat tuam.</hi> Aug. <hi>Currat poeni<g ref="char:EOLhyphen"/>tentia, ne prae<g ref="char:EOLhyphen"/>currat ſententia,</hi> Chryſolog. Serm. 167. <hi>Mora tarditatem poenae gra<g ref="char:EOLhyphen"/>vitate compenſat, qui quo tardius venit ſeverius percutit.</hi> Greg. mor.</note> 
+               <hi>us from the face of him that ſitteth on the throne, and from the wrath of the Lambe. Rev.</hi> 6. 15, 16. When this Lambe ſhall be turn<g ref="char:EOLhyphen"/>ed into a Lyon, Woe, Woe, everlaſtingly to all ſuch as ſhall be found Rebells againſt him. But in the next place,</p>
+            <p n="2">2. Bleſſed, inexpreſſibly bleſſed are all they that truſt in him, who firſt kiſſe and then truſt in him (that's Gods method) elſs our truſt will be as the hypocrites truſt, a Spiders weeb, <hi>Job. 8. 14, 15 He ſhall
+<pb n="34" facs="tcp:40230:22"/> lean upon his houſe, but it ſhall not ſtand, ho ſhall hold it faſt, but it ſhall not endure</hi>) and this is the ſecond Motive to perſwade all to come in and to kiſſe the Sonne: <hi>Bleſſed are all they that truſt in him.</hi>
+            </p>
+            <p n="2">2. Bleſſedneſs ſhall be their portion, they ſhall inherit a bleſſing. 1 <hi>Pet.</hi> 3. they are bleſſed, and <hi>they ſhall be bleſſed,</hi> as <hi>Iſaac</hi> ſaid to <hi>Iacob, Thy bleſſing is upon thy people, Pſ. 3. 8. vid. Ezek. 34. 26. I will makethem, and the places round about my hill a bleſſing, there ſhall be ſhowers of bleſſings,</hi> That bleſſing which <hi>Moſes</hi> from God gave <hi>Joſeph,</hi> Deut. 33. 13, <hi>&amp;c.</hi> ſhall be the bleſſing of every faithfull ſubject of this King of Zion who hath heartily devoted himſelf to his ſervice. <hi>The pretious things of Heaven, and he preti<g ref="char:EOLhyphen"/>ous things of the</hi> 
+               <note n="*" place="margin">
+                  <hi>Qui dabit regnum, nonne dabit viati<g ref="char:EOLhyphen"/>cum?</hi> Auguſt. <hi>Quantumli<g ref="char:EOLhyphen"/>bet ſis avarus ſufficit tibi Deus; ete<g ref="char:EOLhyphen"/>nim vult ava<g ref="char:EOLhyphen"/>ritia terram poſſidere tota<g ref="char:cmbAbbrStroke">̄</g>, adile &amp; coelu<g ref="char:cmbAbbrStroke">̄</g>, plus est qui fecit coelum &amp; terram.</hi> Auguſt. in Pſal. 55.</note> 
+               <hi>earth, and the fullneſſe of both, and the good will of him that dwelt in the buſh: This bleſſing ſhall come upon the head of every one of his Joſephs, and upon the top of the head of him that is ſeparated from his bre<g ref="char:EOLhyphen"/>thren,</hi> and loved with an everlaſting love. Even here your King Jeſus will make you <note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Naz. de Pace. Quid tibi vi<g ref="char:EOLhyphen"/>debitur divina, lux cum illam ſuo locorideris? tum in tenebris vixiſſe dices, cu<g ref="char:cmbAbbrStroke">̄</g> totam lucem totus aſpexeris, quam nunc per anguſtiſſimas oculorum vias obſcur e intue<g ref="char:EOLhyphen"/>ris, &amp; tamen admiraris tam procul.</hi> Sen. Ep. 102. <hi>Aliud eſt ſe<g ref="char:EOLhyphen"/>cundum opera reddere, aliud propter ipſa opera reddere.</hi> Greg. <hi>Neque enim ea rimus otioſi ſpectatores, ſed participes glo<g ref="char:EOLhyphen"/>riae.</hi> Bern. <hi>Gaudium in re, gaudiu<g ref="char:cmbAbbrStroke">̄</g> in ſpe, gaudium de poſ<g ref="char:EOLhyphen"/>ſeſſione, gaudi<g ref="char:EOLhyphen"/>um depromiſſi<g ref="char:EOLhyphen"/>one, gaudium de praeſenti ex<g ref="char:EOLhyphen"/>pectatione, gaudium de futura exhibi<g ref="char:EOLhyphen"/>tione.</hi> Bern. de temp. 15.</note> 
+               <hi>Kings and Prieſts to God; Rev.</hi> 1. 6. he lookes upon you as <hi>a choſen generation, a royal prieſt<g ref="char:EOLhyphen"/>hood,
+<pb n="35" facs="tcp:40230:22"/> an holy nation, a peculiar people:</hi> You have a potent King and carefull Protector, who will take your part, and revenge your wrongs, whileſt you keep cloſe to him and walk in his wayes, and when you have done and ſuffered for him a while, and overcome by his ſtrength, you ſhall ſit down with him in his Throne, even as he overcame, and is ſate down with his Father in his throne; this is the portion of their cup, who are the followers of the Lambe: this is the bleſſedneſs of thoſe who kiſs the ſonne, and truſt him: they ſhall not ſit under the ſha<g ref="char:EOLhyphen"/>dow of a Bramble, but every one under the ſhadow of his own Vine, Figtree, and O<g ref="char:EOLhyphen"/>live. In a word you that kiſs him, ſhall be kiſſed of him; you that embrace him, ſhall be embraced by him, you that love him, ſhall be loved of him, and his Father; you that cordially obey him, ſhall be ever<g ref="char:EOLhyphen"/>laſtingly ſaved by him, and rewarded with all that good he hath purchaſed for, and pro<g ref="char:EOLhyphen"/>miſed to his people: And what will draw you in, if neither the danger of ruin, nor the certainty of a bleſſed reward? I'le trouble you but with one thing more, and then conclude; and this alſo, at leaſt by conſe<g ref="char:EOLhyphen"/>quence, ariſeth from the Pſalm. See you not here what combinations, and unions of e<g ref="char:EOLhyphen"/>nemies,
+<pb n="36" facs="tcp:40230:23"/> there are againſt this King that God hath ſet up? to hinder the ſettlement and enlargment of his kingdome, and is it not then fit, nay equall and juſt, that the ſubjects of this King ſhould joyn and unite hearts, heads, and hands, for their King a<g ref="char:EOLhyphen"/>gainſt their common enemy? Shall <hi>Herod</hi> and <hi>Pilate</hi> be made friends to oppoſe Chriſt, and ſhall not Paul and Barnabas unite to advance Chriſt? doth not our Saviour tell us, that a kingdome divided againſt it ſelf cannot ſtand? would then Chriſts own ſub<g ref="char:EOLhyphen"/>jects ſo delight in diviſions, and maintain animoſities among themſelves, if they did ſeriouſly conſider how much they did here<g ref="char:EOLhyphen"/>by ſtrengthen Sathans and weaken their So<g ref="char:EOLhyphen"/>veraignes Kingdome? what an honour was it for the primitive Chriſtians, when the heathens could look upon them, and ſay, <hi>Be<g ref="char:EOLhyphen"/>hold,</hi>
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Chryſt. in</hi> Heb. <hi>Non poteſt con<g ref="char:EOLhyphen"/>co<g ref="char:cmbAbbrStroke">̄</g>rdiam habere cum Chriſto. qui diſcors eſſe voluerit cum Chriſtiano</hi> Aug. <hi>Charitas tolerat quos a<g ref="char:EOLhyphen"/>mat, amat quos tolerat.</hi> Greg. <hi>in</hi> Ezech.</note> 
+               <hi>how the Chriſtians love one another?</hi> and then how was Religion in credit, and did flouriſh? but alas! what a ſhame is it that enemies ſhould ſee and ſay: Behold how theſe Chriſtians hate one another (and that often for petty differences) and how is Re<g ref="char:EOLhyphen"/>ligion ſcorned and decayed?</p>
+            <pb n="37" facs="tcp:40230:23"/>
+            <p>Fathers and Brethren, ought not this to be a lamentation? and what hope have we to find a remedy for this ruining malady? when thoſe very many <hi>Irenicums</hi> that both Preſſe and Pulpit have lately ſent forth have proved <hi>Polemicums?</hi> Oh! that our re<g ref="char:EOLhyphen"/>flections in this particular might be ſeri<g ref="char:EOLhyphen"/>ous and our amendment viſible. But perhaps ſome may ſay to me, as one once ſaid to <hi>Luther</hi> in an other caſe <hi>Abi in cellam &amp; dic miſerere noſtri,</hi> truly I ſhall willingly obey, and ſay as the Pſalmiſt, <hi>I will give my ſelf unto prayer,</hi> only firſt give me leave to<note place="margin">Pſal. 109. 4.</note> mind you of a few Sriptures, and then I have done. 1. <hi>Cor. 1. 10. I beſeech you bre<g ref="char:EOLhyphen"/>thren by the name of our Lord Jeſus Chriſt that yee all ſpeak the ſame thing, and that there be no diviſions among you, but that ye be perfectly joyned together in the ſame mind, and in the ſame judgment.</hi> And that of the ſame Apoſtle to the <hi>Philipians.</hi> chap. 2. 1, 2, 3. <hi>If there be any conſolation in Chriſt, if any com<g ref="char:EOLhyphen"/>fort of love, if any fellowſhip of the ſpirit, if any bowells and mercies, fullfill ye my joy that ye be like-minded, having the ſame love, being of one accord, of one mind, let nothing be done through ſtrife or vain glory, &amp;c.</hi> I ſhall ſhut up all with that high praiſe of peace and u<g ref="char:EOLhyphen"/>nion <hi>Pſalm. 133. Behold how good, and how
+<pb n="38" facs="tcp:40230:24"/> pleaſant a thing it is for brethren to dwell to<g ref="char:EOLhyphen"/>gether in unitie, it is like the precious ointment on the head, that ran down on the beara, even</hi> Aarons beard, <hi>and went down on the skirts of his garments; as the dew of</hi> Hermon, <hi>and as the dew that deſcended upon the mountaines of</hi> Zion, <hi>for there the Lord commanded the bleſ<g ref="char:EOLhyphen"/>ſing, even life for evermore.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40230:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
